@@ -1,6 +1,6 @@
 # Kacper Przybyła — Junior DevOps Engineer
 
-Wrocław · otwarty na zdalne i hybrydowe
+Wrocław · otwarty na pracę zdalną i hybrydową
 
 Przez 2.5 roku zarządzałem infrastrukturą Linux na flocie 300+ urządzeń IoT —
 od fizycznego serwisu przez automatyzację po własny serwer VPN napisany w Ruby.

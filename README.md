@@ -1,16 +1,25 @@
-## Hi there 👋
+# Kacper Przybyła — Junior DevOps Engineer
 
-<!--
-**kacper-przybyla/kacper-przybyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wrocław · otwarty na zdalne i hybrydowe
 
-Here are some ideas to get you started:
+Przez 2.5 roku zarządzałem infrastrukturą Linux na flocie 300+ urządzeń IoT —
+od fizycznego serwisu przez automatyzację po własny serwer VPN napisany w Ruby.
+Naturalnie ewoluowałem w stronę DevOps, bo widziałem problemy z infrastruktury
+od środka i zacząłem je rozwiązywać kodem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Co tu znajdziesz
+
+| Repo | Co to jest | Status |
+|------|-----------|--------|
+| [legacy-app-dockerized](https://github.com/kacper-przybyla/legacy-ecommerce) | Konteneryzacja legacy aplikacji, multi-stage builds, Docker Compose | ✅ gotowe |
+| [task-manager-app](https://github.com/kacper-przybyla/task-manager-app) | Konteneryzacja aplikacji, multi-stage builds, Docker Compose, wersjonowanie tagami | ✅ gotowe |
+| [task-manager-deployment](https://github.com/kacper-przybyla/task-manager-deployment) | CI/CD pipeline — GitHub Actions, automatyczny deployment | 🚧 w trakcie |
+
+## Stack
+
+`Linux` `Ansible` `Docker` `WireGuard` `Bash` `Python` `Ruby` `nginx` `Git`
+
+## Kontakt
+
+[LinkedIn](https://linkedin.com/in/kacperprzybyla) · kacper.przybyla.praca@gmail.com
+

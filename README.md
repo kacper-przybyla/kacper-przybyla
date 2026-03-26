@@ -4,7 +4,7 @@ Wrocław · otwarty na pracę zdalną i hybrydową
 
 Przez 2.5 roku zarządzałem infrastrukturą Linux na flocie 300+ urządzeń IoT —
 od fizycznego serwisu przez automatyzację po własny serwer VPN napisany w Ruby.
-Naturalnie ewoluowałem w stronę DevOps, bo widziałem problemy z infrastruktury
+Naturalnie ewoluowałem w stronę DevOps, bo widziałem problemy infrastruktury
 od środka i zacząłem je rozwiązywać kodem.
 
 ## Co tu znajdziesz

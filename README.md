@@ -27,7 +27,7 @@ Automated deployment pipeline: Docker → GitHub Actions → GHCR → AWS EC2
 
 AWS infrastructure provisioning with Terraform, application deployment with Ansible
 
-**Stack:** Terraform · Ansible · AWS · Python
+**Stack:** Terraform · Ansible · AWS · Python  
 **Key features:** Modular Terraform design · Dynamic EC2 inventory · Secrets management · Python deployment tool
 
 ---

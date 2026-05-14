@@ -5,7 +5,7 @@
 Building production-grade CI/CD systems and infrastructure automation.  
 2.5 years managing Linux infrastructure for 300+ IoT devices, now focused on cloud-native DevOps.
 
-📹 **[Watch 3-minute demo video](https://www.youtube.com/watch?v=lYxCKmWBe1E)** — code change → automated deployment → live in production
+📹 **[Watch 3-minute pipeline demo video](https://www.youtube.com/watch?v=lYxCKmWBe1E)** — code change → automated deployment → live in production
 
 ---
 
@@ -18,7 +18,7 @@ Automated deployment pipeline: Docker → GitHub Actions → GHCR → AWS EC2
 
 **Stack:** Docker · GitHub Actions · FastAPI · React · nginx · PostgreSQL  
 **Key features:** OIDC authentication · Semantic versioning · 4-5 min deployment  
-🌐 **[Live demo](http://18.159.85.126/)** 
+🌐 **[Deployed app](http://18.159.85.126/)** 
 
 ---
 

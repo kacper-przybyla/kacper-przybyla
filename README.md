@@ -85,6 +85,10 @@ Git · semantic versioning
 
 ---
 
+🔭 **Currently exploring:** Kubernetes observability (Prometheus, Grafana, Loki)
+
+---
+
 ## 📫 Contact
 
 **LinkedIn:** [linkedin.com/in/kacperprzybyla](https://linkedin.com/in/kacperprzybyla)  
